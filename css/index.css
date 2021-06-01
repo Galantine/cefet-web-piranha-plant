@@ -1,0 +1,27 @@
+.special_text {
+	padding-left: 60px;
+	font-style: italic;
+}
+
+#special_text_box {
+	padding: 10px;
+	background-image: url("../imagens/fundo.png");
+	border: 3px;
+	border-style: solid;
+	border-color: limegreen;
+}
+
+#armadilhas_jaula, #armadilhas_succao, #title2 {
+	color: limegreen;
+	font-family: "Times New Roman", serif;
+	font-size: 22px;
+}
+
+.image {
+	border: 8px;
+	border-style: solid;
+	border-color: limegreen;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

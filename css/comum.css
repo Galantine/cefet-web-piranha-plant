@@ -1,0 +1,13 @@
+h1 {
+	color: limegreen;
+	font-family: "Times New Roman", serif;
+	font-size: 28px;
+}
+
+#base {
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: justify;
+	font-family: "Arial", sans-serif;
+	font-size: 14px;
+}
